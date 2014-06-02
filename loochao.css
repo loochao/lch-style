@@ -1,18 +1,11 @@
 @media all
 {
     body {
-	margin: 10px 8% 10px 8%;        
-	/* font: 300 .9em/1.6em "Droid Serif", Cambria, Georgia, "DejaVu Serif", serif; */
+	margin: 10px 8% 10px 8%;
 	font: 12pt sans-serif, Verdana, Tahoma, helvetica;
 	text-align: justify;
 	padding: 12px;
 	line-height: 13pt;
-        
-	background-image: url(http://orgmode.org/img/org-mode-unicorn-logo-worg.png);
-	background-attachment: fixed;
-	background-position: right bottom;
-	background-repeat: no-repeat;
-	background-color: white;
     }
 
     h1 {font-size: 18pt;}
